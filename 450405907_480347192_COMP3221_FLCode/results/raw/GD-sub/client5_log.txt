@@ -1,0 +1,700 @@
+
+I am client5
+Recieving new global model
+tensor(2.4805)
+Accuracy of client5 is: 24.339106678962708 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2777)
+Accuracy of client5 is: 59.34366583824158 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2197)
+Accuracy of client5 is: 80.58341145515442 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2128)
+Accuracy of client5 is: 91.06654524803162 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1984)
+Accuracy of client5 is: 91.97812080383301 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1929)
+Accuracy of client5 is: 92.52507090568542 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1952)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1931)
+Accuracy of client5 is: 93.98359060287476 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2527)
+Accuracy of client5 is: 91.34001731872559 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2106)
+Accuracy of client5 is: 92.06928014755249 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2112)
+Accuracy of client5 is: 93.89243125915527 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2115)
+Accuracy of client5 is: 94.16590929031372 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2033)
+Accuracy of client5 is: 93.34548711776733 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1998)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2064)
+Accuracy of client5 is: 92.98085570335388 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2012)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2659)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2167)
+Accuracy of client5 is: 93.07201504707336 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2630)
+Accuracy of client5 is: 89.5168662071228 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2806)
+Accuracy of client5 is: 91.97812080383301 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2358)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2141)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2046)
+Accuracy of client5 is: 92.34275221824646 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1961)
+Accuracy of client5 is: 94.16590929031372 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1834)
+Accuracy of client5 is: 93.34548711776733 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2511)
+Accuracy of client5 is: 92.8896963596344 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2140)
+Accuracy of client5 is: 93.16317439079285 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2117)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1907)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2538)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2773)
+Accuracy of client5 is: 92.61622428894043 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2882)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2899)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2392)
+Accuracy of client5 is: 92.98085570335388 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2208)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1452)
+Accuracy of client5 is: 93.89243125915527 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1588)
+Accuracy of client5 is: 93.16317439079285 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1656)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1795)
+Accuracy of client5 is: 92.61622428894043 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1880)
+Accuracy of client5 is: 94.07474994659424 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2619)
+Accuracy of client5 is: 93.34548711776733 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2824)
+Accuracy of client5 is: 90.15496969223022 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2233)
+Accuracy of client5 is: 93.80127787590027 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2658)
+Accuracy of client5 is: 90.88423252105713 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2176)
+Accuracy of client5 is: 94.07474994659424 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2061)
+Accuracy of client5 is: 93.34548711776733 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2673)
+Accuracy of client5 is: 93.07201504707336 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2848)
+Accuracy of client5 is: 89.79033827781677 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2905)
+Accuracy of client5 is: 92.06928014755249 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2395)
+Accuracy of client5 is: 92.61622428894043 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2201)
+Accuracy of client5 is: 94.07474994659424 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2138)
+Accuracy of client5 is: 93.43664646148682 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2115)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1413)
+Accuracy of client5 is: 93.89243125915527 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2481)
+Accuracy of client5 is: 93.25432777404785 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2751)
+Accuracy of client5 is: 93.25432777404785 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2876)
+Accuracy of client5 is: 92.7985429763794 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2368)
+Accuracy of client5 is: 93.07201504707336 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2717)
+Accuracy of client5 is: 89.69917893409729 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2223)
+Accuracy of client5 is: 91.34001731872559 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2655)
+Accuracy of client5 is: 92.61622428894043 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2816)
+Accuracy of client5 is: 92.52507090568542 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2909)
+Accuracy of client5 is: 89.5168662071228 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2261)
+Accuracy of client5 is: 93.89243125915527 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2099)
+Accuracy of client5 is: 93.25432777404785 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2101)
+Accuracy of client5 is: 92.8896963596344 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2111)
+Accuracy of client5 is: 94.07474994659424 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2032)
+Accuracy of client5 is: 93.16317439079285 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2090)
+Accuracy of client5 is: 93.89243125915527 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2682)
+Accuracy of client5 is: 93.16317439079285 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2283)
+Accuracy of client5 is: 93.16317439079285 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2678)
+Accuracy of client5 is: 92.61622428894043 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2176)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1442)
+Accuracy of client5 is: 93.6189591884613 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2488)
+Accuracy of client5 is: 93.25432777404785 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2230)
+Accuracy of client5 is: 94.07474994659424 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1960)
+Accuracy of client5 is: 93.5278058052063 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1935)
+Accuracy of client5 is: 94.16590929031372 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2529)
+Accuracy of client5 is: 91.43117666244507 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1587)
+Accuracy of client5 is: 93.71011853218079 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1914)
+Accuracy of client5 is: 93.43664646148682 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1946)
+Accuracy of client5 is: 92.8896963596344 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2045)
+Accuracy of client5 is: 92.70738363265991 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1961)
+Accuracy of client5 is: 94.34822201728821 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2644)
+Accuracy of client5 is: 93.25432777404785 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2160)
+Accuracy of client5 is: 93.34548711776733 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2627)
+Accuracy of client5 is: 89.79033827781677 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2294)
+Accuracy of client5 is: 92.06928014755249 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2173)
+Accuracy of client5 is: 92.61622428894043 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2633)
+Accuracy of client5 is: 89.24338817596436 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2842)
+Accuracy of client5 is: 92.16043949127197 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2884)
+Accuracy of client5 is: 92.52507090568542 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2290)
+Accuracy of client5 is: 92.98085570335388 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2112)
+Accuracy of client5 is: 92.98085570335388 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2615)
+Accuracy of client5 is: 92.61622428894043 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.1621)
+Accuracy of client5 is: 93.89243125915527 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2432)
+Accuracy of client5 is: 93.16317439079285 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2212)
+Accuracy of client5 is: 93.71011853218079 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2142)
+Accuracy of client5 is: 93.5278058052063 %
+Sending new local model
+
+
+I am client5
+Recieving new global model
+tensor(2.2124)
+Accuracy of client5 is: 94.07474994659424 %
+Sending new local model
+
